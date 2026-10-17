@@ -1,0 +1,72 @@
+{
+  "basalt.count1": {
+    "sounds": [
+      {
+        "name": "basalt:count1"
+      }
+    ]
+  },
+  "basalt.count2": {
+    "sounds": [
+      {
+        "name": "basalt:count2"
+      }
+    ]
+  },
+  "basalt.count3": {
+    "sounds": [
+      {
+        "name": "basalt:count3"
+      }
+    ]
+  },
+  "basalt.count4": {
+    "sounds": [
+      {
+        "name": "basalt:count4"
+      }
+    ]
+  },
+  "basalt.count5": {
+    "sounds": [
+      {
+        "name": "basalt:count5"
+      }
+    ]
+  },
+  "basalt.die": {
+    "sounds": [
+      {
+        "name": "basalt:die"
+      }
+    ]
+  },
+  "basalt.fall": {
+    "sounds": [
+      {
+        "name": "basalt:fall"
+      }
+    ]
+  },
+  "basalt.showdown": {
+    "sounds": [
+      {
+        "name": "basalt:showdown"
+      }
+    ]
+  },
+  "basalt.win": {
+    "sounds": [
+      {
+        "name": "basalt:win"
+      }
+    ]
+  },
+  "basalt.checkpoint": {
+    "sounds": [
+      {
+        "name": "basalt:checkpoint"
+      }
+    ]
+  }
+}

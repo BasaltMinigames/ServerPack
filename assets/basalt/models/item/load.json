@@ -1,0 +1,45 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"logo1": "basalt:item/bedwars/logo1",
+		"logo2": "basalt:item/bedwars/logo2",
+		"particle": "basalt:item/tip",
+		"tip": "basalt:item/tip"
+	},
+	"elements": [
+		{
+			"from": [-14, 3, 0],
+			"to": [30, 9, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#tip"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#tip"}
+			}
+		},
+		{
+			"from": [0, 10, 32],
+			"to": [16, 26, 32],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#logo1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#logo1"}
+			}
+		},
+		{
+			"from": [-2, 21, 9],
+			"to": [18, 31, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#logo2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#logo2"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-9, 4, -15]
+		},
+		"gui": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

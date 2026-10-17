@@ -1,0 +1,39 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "basalt:item/you_got_banned",
+		"2": "basalt:item/logo",
+		"particle": "basalt:item/you_got_banned"
+	},
+	"elements": [
+		{
+			"from": [-2, 20, 2],
+			"to": [18, 26, 2],
+			"rotation": {"x": 0, "y": 0, "z": 0, "origin": [0, -1, -7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [0, 7, -8],
+			"to": [16, 15, -8],
+			"rotation": {"x": 0, "y": 0, "z": 0, "origin": [0, 7, -8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [2, 0, 2, 2], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 2], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 2], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 2, 16, 2], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-9, 4, -15]
+		}
+	}
+}

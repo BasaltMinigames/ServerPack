@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {
+            "file": "basalt:font/logo1",
+            "chars": [
+                "a"
+            ],
+            "height": 8,
+            "ascent": 1
+        }
+    ]
+}

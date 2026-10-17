@@ -1,0 +1,50 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "custom_escape:custom_font"
+        },
+        {
+            "type": "bitmap",
+            "file": "basalt:showdown.png",
+            "ascent": 16,
+            "height": 80,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "basalt:spleef_win.png",
+            "ascent": 16,
+            "height": 128,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "basalt:showdown.png",
+            "ascent": 16,
+            "height": 128,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "basalt:tooltips/g_key.png",
+            "ascent": 16,
+            "height": 32,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "basalt:tooltips/h_key.png",
+            "ascent": 16,
+            "height": 32,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "basalt:ui_elements/small_menu.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": ["\uE008"]
+        }
+    ]
+}

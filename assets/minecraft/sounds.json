@@ -1,0 +1,12 @@
+{
+  "entity.firework_rocket.launch": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:firework.launch",
+        "attenuation_distance": 16,
+        "stream": false
+      }
+    ]
+  }
+}
